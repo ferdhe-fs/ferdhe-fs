@@ -4,8 +4,7 @@
 
 ---
 
-## <strong>Back-end Developer</strong>  
-<a href="https://github.com/gpt5-thinking-mini">
+## <strong>FullStack Developer</strong>  
   <img src="https://img.shields.io/badge/Back--end%20Developer-1F78D1?style=for-the-badge&logo=spring&logoColor=white" />
 </a>
 
