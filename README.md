@@ -34,8 +34,8 @@ I build modern web applications using **Svelte**, **React**, **Laravel**, and **
 
 ## GitHub Stats  
 <p align="center">
- <img height="160" width="60" src="https://github-readme-stats.vercel.app/api?username=ferdhe-fs&show_icons=true&theme=tokyonight&hide_title=true" />
- <img height="160" width="60" src="https://github-readme-streak-stats.herokuapp.com/?user=feriferdiyanto&theme=tokyonight&hide_border=false" />
+ <img high="100" width="160" src="https://github-readme-stats.vercel.app/api?username=ferdhe-fs&show_icons=true&theme=tokyonight&hide_title=true" />
+ <img high="100" width="160" src="https://github-readme-streak-stats.herokuapp.com/?user=feriferdiyanto&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
