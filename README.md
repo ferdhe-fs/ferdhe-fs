@@ -1,34 +1,47 @@
-## Profil Developer Feri Ferdiyanto
+# Hi, I'm **Feri Ferdiyanto**
+### FullStack Developer — Svelte • Laravel • JavaScript
 
-> **Inovasi berbasis Svelte dan Laravel. Mengubah code menjadi pengalaman digital yang mulus.**
+> _“Inovasi berbasis Svelte & Laravel. Mengubah code menjadi pengalaman digital yang mulus.”_
 
-Selamat datang di profil GitHub saya! Saya seorang **FullStack Developer** yang bersemangat dalam membangun aplikasi web yang efisien dan menarik.
+<p align="center">
+  <a href="https://www.linkedin.com/in/feri-ferdiyanto-31281234a/">
+    <img src="https://img.shields.io/badge/FullStack%20Developer-1F78D1?style=for-the-badge&logo=svelte&logoColor=white" />
+  </a>
+</p>
 
-[![FullStack Developer Badge](https://img.shields.io/badge/FullStack%20Developer-1F78D1?style=for-the-badge&logo=spring&logoColor=white)](https://www.linkedin.com/in/feri-ferdiyanto-31281234a/)Profil Developer Feri Ferdiyanto
+---
 
-Selamat datang di profil GitHub saya! Saya seorang FullStack Developer yang bersemangat dalam membangun aplikasi web yang efisien dan menarik.
+## Tentang Saya  
+Saya seorang **FullStack Developer** berfokus pada performa, desain clean, dan pengalaman pengguna yang mulus.  
+Mengembangkan aplikasi modern berbasis **Svelte**, **React**, **Laravel**, dan **TypeScript**.
 
-Keahlian & Teknologi
+---
 
-Saya memiliki pengalaman dalam mengembangkan aplikasi dari frontend hingga backend, menggunakan kombinasi teknologi modern.
+## Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sveltekit,svelte,react,typescript,javascript,php,laravel,html,css,tailwind,mysql,postgres,git,figma" />
+</p>
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=sveltekit,svelte,react,javascript,php,laravel,blade,html,css,tailwind,mysql,postgres" /> </p>
+---
 
-    Frontend: SvelteKit, Svelte, React, JavaScript, HTML, CSS, Tailwind CSS.
+## GitHub Stats  
+<p align="center">
+ <img height="170" src="https://github-readme-stats.vercel.app/api?username=gpt5-thinking-mini&show_icons=true&theme=tokyonight&hide_title=true" />
+ <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpt5-thinking-mini&layout=compact&theme=tokyonight&hide_title=true" />
+</p>
 
-    Backend: PHP, Laravel, Blade.
+<p align="center">
+ <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=gpt5-thinking-mini&theme=tokyonight&hide_border=false" />
+</p>
 
-    Database: MySQL, PostgreSQL.
+---
 
-Statistik GitHub
-
-Lihat aktivitas dan kontribusi saya di GitHub.
-
-<div align="center">
-Metrik Aktivitas	Bahasa Populer	Streak Kontribusi
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gpt5-thinking-mini&show_icons=true&theme=dark&line_height=27&hide_title=true&icon_color=1F78D1&text_color=ffffff&bg_color=1c1c1c" alt="GitHub Stats" />	<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpt5-thinking-mini&layout=compact&theme=dark&hide_title=true&icon_color=1F78D1&text_color=ffffff&bg_color=1c1c1c" alt="Top Languages" />	<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=gpt5-thinking-mini&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=000000&background=1c1c1c&ring=1F78D1&fire=1F78D1" alt="GitHub Streak" />
-
-</div>
+## Terhubung  
+<p align="center">
+  <a href="https://www.linkedin.com/in/feri-ferdiyanto-31281234a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Feri%20Ferdiyanto-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 Hubungi Saya
 
