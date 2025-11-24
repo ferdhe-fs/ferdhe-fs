@@ -1,5 +1,5 @@
 <div align="center">
- <img src="sandbox:/mnt/data/erasebg-transformed.png" alt="Profile Image" width="200" style="border-radius: 50%;" />
+ <img width="700" height="700" alt="Image" src="https://github.com/user-attachments/assets/3d67dd8d-925f-4109-9872-757b9d53402a" />
 </div>
 
 # Hi, I'm Feri Ferdiyanto
