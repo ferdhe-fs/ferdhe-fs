@@ -65,6 +65,9 @@ Frontend & UI/UX
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" /> 
 </p>
 
+</a>
+  <img src="https://img.icons8.com/ios-filled/50/9ca3af/vertical-line.png" height="30">
+  
 <p align="center"> 
   <i>Turning ideas into functional, beautiful code</i> 
 </p>
