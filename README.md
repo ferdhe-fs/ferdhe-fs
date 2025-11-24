@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="  file:///home/feri/Downloads/erasebg-transformed.png" alt="Welcome GIF" width="full" height="full"/>
+ <img src="sandbox:/mnt/data/erasebg-transformed.png" alt="Profile Image" width="200" style="border-radius: 50%;" />
 </div>
 
 # Hi, I'm Feri Ferdiyanto
