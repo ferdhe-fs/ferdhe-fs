@@ -1,9 +1,11 @@
-<div align="center"> <img src="https://i.pinimg.com/originals/8b/35/72/8b357283fd26e3bb18cc1983c0ebdb9c.gif" alt="Welcome GIF" width="full" high="full"/> </div>
+<div align="center">
+  <img src="https://i.pinimg.com/originals/8b/35/72/8b357283fd26e3bb18cc1983c0ebdb9c.gif" alt="Welcome GIF" width="full" height="full"/>
+</div>
 
-# Hi, I'm **Feri Ferdiyanto**
+# Hi, I'm Feri Ferdiyanto
 ### FullStack Developer — Svelte • Laravel • JavaScript
 
-> _“Inovasi berbasis Svelte & Laravel. Mengubah code menjadi pengalaman digital yang mulus.”_
+> _“Innovation powered by Svelte & Laravel. Turning code into seamless digital experiences.”_
 
 <p align="center">
   <a href="https://www.linkedin.com/in/feri-ferdiyanto-31281234a/">
@@ -13,9 +15,9 @@
 
 ---
 
-## Tentang Saya  
-Saya seorang **FullStack Developer** berfokus pada performa, desain clean, dan pengalaman pengguna yang mulus.  
-Mengembangkan aplikasi modern berbasis **Svelte**, **React**, **Laravel**, dan **TypeScript**.
+## About Me
+I'm a **FullStack Developer** focused on performance, clean UI/UX, and smooth user experiences.  
+I build modern web applications using **Svelte**, **React**, **Laravel**, and **TypeScript**.
 
 ---
 
@@ -38,15 +40,25 @@ Mengembangkan aplikasi modern berbasis **Svelte**, **React**, **Laravel**, dan *
 
 ---
 
-## Terhubung  
+## Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/feri-ferdiyanto-31281234a/">
     <img src="https://img.shields.io/badge/LinkedIn-Feri%20Ferdiyanto-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-Hubungi Saya
+---
 
-Tertarik untuk berdiskusi tentang teknologi atau proyek kolaborasi? Jangan ragu untuk menghubungi saya!
+## Contact Me  
+Interested in discussing technology or potential collaboration?  
+Feel free to reach out anytime!
 
-<p align="center"> <a href="mailto:feriferdiyanto11@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> &nbsp; <a href="https://www.linkedin.com/in/feri-ferdiyanto-31281234a/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </p>
+<p align="center">
+  <a href="mailto:feriferdiyanto11@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/feri-ferdiyanto-31281234a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
