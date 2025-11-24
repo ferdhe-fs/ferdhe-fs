@@ -27,13 +27,9 @@ Mengembangkan aplikasi modern berbasis **Svelte**, **React**, **Laravel**, dan *
 ---
 
 ## GitHub Stats  
-<p align="center justify-center">
+<p align="center">
  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ferdhe-fs&show_icons=true&theme=tokyonight&hide_title=true" />
  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdhe-fs&layout=compact&theme=tokyonight&hide_title=true" />
-</p>
-
-<p align="center">
- <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=feriferdiyanto&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
