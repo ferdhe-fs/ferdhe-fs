@@ -16,7 +16,7 @@ I'm a FullStack Developer passionate about crafting responsive, secure, and high
 ## 🛠 Tech Stack
 Frontend & UI/UX
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=svelte,nestjs,react,typescript,javascript,html,css,tailwind" /> 
+  <img src="https://skillicons.dev/icons?i=svelte,nextjs,react,typescript,javascript,html,css,tailwind" /> 
 </p>
 
 ## Backend & Databases
