@@ -1,5 +1,8 @@
 <div align="center">
- <img width="700" height="700" alt="Image" src="https://github.com/user-attachments/assets/3d67dd8d-925f-4109-9872-757b9d53402a" />
+ <img src="https://github.com/user-attachments/assets/3d67dd8d-925f-4109-9872-757b9d53402a" 
+       alt="Profile Photo" 
+       width="220" 
+       style="border-radius: 50%; box-shadow: 0 0 15px rgba(0,0,0,0.15);" />
 </div>
 
 # Hi, I'm Feri Ferdiyanto
