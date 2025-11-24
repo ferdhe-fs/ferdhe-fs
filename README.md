@@ -23,7 +23,7 @@ I build modern web applications using **Svelte**, **React**, **Laravel**, and **
 
 ## Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sveltekit,svelte,react,typescript,javascript,php,laravel,html,css,tailwind,mysql,postgres,git,figma" />
+  <img src="https://skillicons.dev/icons?i=sveltekit,svelte,react,typescript,javascript,php,laravel,html,css,tailwind,mysql,postgres,git,prisma" />
 </p>
 
 ---
@@ -32,10 +32,6 @@ I build modern web applications using **Svelte**, **React**, **Laravel**, and **
 <p align="center">
  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ferdhe-fs&show_icons=true&theme=tokyonight&hide_title=true" />
  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=feriferdiyanto&theme=tokyonight&hide_border=false" />
-</p>
-
-<p align="center">
- <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdhe-fs&layout=compact&theme=tokyonight&hide_title=true" />
 </p>
 
 ---
