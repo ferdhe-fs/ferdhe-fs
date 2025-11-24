@@ -26,7 +26,7 @@ Frontend & UI/UX
 
 ## Tools & Platforms
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=git,github,aws,canva,redis,vscode" /> 
+  <img src="https://skillicons.dev/icons?i=git,github,aws,figma,redis,vscode" /> 
 </p>
 
 ## GitHub Analytics
