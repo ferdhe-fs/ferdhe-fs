@@ -53,14 +53,15 @@ I build modern web applications using **Svelte**, **React**, **Laravel**, and **
 Interested in discussing technology or potential collaboration?  
 Feel free to reach out anytime!
 
+<span>
 <p align="center">
   <a href="mailto:feriferdiyanto11@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
-  <span style="display:inline-block; width:1px; height:28px; background-color:#555; margin:0 12px;"></span>
+  <img src="https://img.icons8.com/ios-filled/50/9ca3af/vertical-line.png" height="30">
 
   <a href="https://www.linkedin.com/in/feri-ferdiyanto-31281234a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+</span>
