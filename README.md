@@ -54,7 +54,10 @@ Frontend & UI/UX
 <p align="center">
   <a href="mailto:feriferdiyanto11@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Email%20Me" /> 
-  </a> 
+  </a>
+  
+  </a>
+  <img src="https://img.icons8.com/ios-filled/50/9ca3af/vertical-line.png" height="30">
   
   <a href="https://www.linkedin.com/in/feri-ferdiyanto-31281234a/"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn" /> 
@@ -65,9 +68,6 @@ Frontend & UI/UX
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" /> 
 </p>
 
-</a>
-  <img src="https://img.icons8.com/ios-filled/50/9ca3af/vertical-line.png" height="30">
-  
 <p align="center"> 
   <i>Turning ideas into functional, beautiful code</i> 
 </p>
