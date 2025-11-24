@@ -76,3 +76,6 @@ Frontend & UI/UX
   
 ## "Innovation powered by clean code and modern technology"
 </div>
+
+
+![Snake animation](https://github.com/ferdhe-fs/ferdhe-fs/blob/output/github-contribution-grid-snake.svg)
