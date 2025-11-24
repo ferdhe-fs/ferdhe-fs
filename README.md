@@ -2,11 +2,11 @@
 
 ## FullStack Developer — Svelte • Laravel • JavaScript
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=FullStack+Developer;Svelte+%7C+Laravel+                 %7C+TypeScript;Clean+Code+Enthusiast;Problem+Solver" alt="Typing SVG" style="font-bold" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF355E&center=true&vCenter=true&width=435&lines=FullStack+Developer;Svelte+%7C+Laravel+                 %7C+TypeScript;Clean+Code+Enthusiast;Problem+Solver" alt="Typing SVG"" /> 
 </p>
 
 <div align="center"> 
-  <img src="https://github.com/user-attachments/assets/3d67dd8d-925f-4109-9872-757b9d53402a" alt="Profile Photo" width="220" height="220" style="border-radius: 50%;
+  <img src="https://github.com/user-attachments/assets/3d67dd8d-925f-4109-9872-757b9d53402a" alt="Profile Photo" width="200" height="220" style="border-radius: 50%;
             box-shadow: 0 0 20px rgba(34, 197, 94, 0.3); border: 3px solid #22C55E;" />
 </div>
 
@@ -56,9 +56,7 @@ Frontend & UI/UX
   <a href="mailto:feriferdiyanto11@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Email%20Me" /> 
   </a> 
-  <a href="https://wa.me/6281327691718"> 
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&label=WhatsApp" /> 
-  </a> 
+  
   <a href="https://www.linkedin.com/in/feri-ferdiyanto-31281234a/"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn" /> 
   </a> 
@@ -73,5 +71,6 @@ Frontend & UI/UX
 </p>
 
 <div align="center">
+  
 ## "Innovation powered by clean code and modern technology"
 </div>
