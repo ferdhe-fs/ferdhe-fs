@@ -57,7 +57,9 @@ Feel free to reach out anytime!
   <a href="mailto:feriferdiyanto11@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
- 
+
+  <span style="display:inline-block; width:1px; height:28px; background-color:#555; margin:0 12px;"></span>
+
   <a href="https://www.linkedin.com/in/feri-ferdiyanto-31281234a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
