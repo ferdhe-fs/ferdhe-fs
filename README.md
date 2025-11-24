@@ -2,12 +2,11 @@
 
 ## FullStack Developer — Svelte • Laravel • JavaScript
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF355E&center=true&vCenter=true&width=435&lines=FullStack+Developer;Svelte+%7C+Laravel+                 %7C+TypeScript;Clean+Code+Enthusiast;Problem+Solver" alt="Typing SVG"" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF355E&center=true&vCenter=true&width=435&lines=FullStack+Developer;Svelte+%7C+Laravel+%7C+TypeScript;Clean+Code+Enthusiast;Problem+Solver" alt="Typing SVG"" /> 
 </p>
 
 <div align="center"> 
-  <img src="https://github.com/user-attachments/assets/3d67dd8d-925f-4109-9872-757b9d53402a" alt="Profile Photo" width="200" height="220" style="border-radius: 50%;
-            box-shadow: 0 0 20px rgba(34, 197, 94, 0.3); border: 3px solid #22C55E;" />
+  <img src="https://github.com/user-attachments/assets/3d67dd8d-925f-4109-9872-757b9d53402a" alt="Profile Photo" width="200" height="220" style="border-radius: 50%;box-shadow: 0 0 20px rgba(34, 197, 94, 0.3); border: 3px solid #22C55E;" />
 </div>
 
 ## About Me
