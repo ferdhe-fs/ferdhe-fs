@@ -35,9 +35,6 @@ Frontend & UI/UX
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=ferdhe-fs&theme=radical&hide_border=true&fire=22C55E" />
 </p>
 
-<p align="center"> 
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdhe-fs&layout=compact&theme=radical&hide_border=true&langs_count=6" />
-</p>
 
     Full-Stack Development from database to deployment
 
