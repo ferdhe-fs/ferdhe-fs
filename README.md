@@ -21,21 +21,23 @@ Backend & Databases
 <p align="center"> <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,nestjs,mysql,postgresql,prisma" /> </p>
 Tools & Platforms
 <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,aws,nginx,redis,vscode" /> </p>
-📊 GitHub Analytics
+
+## GitHub Analytics
 <p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=ferdhe-fs&show_icons=true&theme=radical&hide_title=true&card_width=400&hide_border=true" /> <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=ferdhe-fs&theme=radical&hide_border=true&fire=22C55E" /> </p><p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdhe-fs&layout=compact&theme=radical&hide_border=true&langs_count=6" /> </p>
 
-    💻 Full-Stack Development from database to deployment
+    Full-Stack Development from database to deployment
 
-    ⚡ High Performance with optimized Svelte applications
+    High Performance with optimized Svelte applications
 
-    🔒 Secure & Scalable backend systems with Laravel/Nest.js
+    Secure & Scalable backend systems with Laravel/Nest.js
 
-    🎨 Responsive Design with TailwindCSS and modern UI/UX
+    Responsive Design with TailwindCSS and modern UI/UX
 
-    🔄 API Integration with third-party services and payment gateways
+    API Integration with third-party services and payment gateways
 
-    📱 Real-time Features with interactive state management
+    Real-time Features with interactive state management
 
-<p align="center"> <a href="mailto:feriferdiyanto11@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Email%20Me" /> </a> <a href="https://wa.me/6281327691718"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&label=WhatsApp" /> </a> <a href="https://www.linkedin.com/in/feri-ferdiyanto-31281234a/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn" /> </a> </p><p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" /> </p><p align="center"> <i>🚀 Turning ideas into functional, beautiful code</i> </p><div align="center">
-💫 "Innovation powered by clean code and modern technology"
+<p align="center"> <a href="mailto:feriferdiyanto11@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Email%20Me" /> </a> <a href="https://wa.me/6281327691718"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&label=WhatsApp" /> </a> <a href="https://www.linkedin.com/in/feri-ferdiyanto-31281234a/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn" /> </a> </p><p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" /> </p><p align="center"> <i>Turning ideas into functional, beautiful code</i> </p><div align="center">
+  
+## "Innovation powered by clean code and modern technology"
 </div>
