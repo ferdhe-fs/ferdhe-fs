@@ -6,7 +6,7 @@
 </p>
 
 <div align="center"> 
-  <img src="https://github.com/user-attachments/assets/3d67dd8d-925f-4109-9872-757b9d53402a" alt="Profile Photo" width="200" height="220" style="border-radius: 50%;box-shadow: 0 0 20px rgba(34, 197, 94, 0.3); border: 3px solid #22C55E;" />
+  <img src="https://github.com/user-attachments/assets/3d67dd8d-925f-4109-9872-757b9d53402a" alt="Profile Photo" width="180" height="220" style="border-radius: 50%;box-shadow: 0 0 20px rgba(34, 197, 94, 0.3); border: 3px solid #22C55E;" />
 </div>
 
 ## About Me
