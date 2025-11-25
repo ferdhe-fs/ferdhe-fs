@@ -79,9 +79,5 @@ Frontend & UI/UX
 </p>
 
 <p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" /> 
-</p>
-
-<p align="center"> 
   <i>Turning ideas into functional, beautiful code</i> 
 </p>
