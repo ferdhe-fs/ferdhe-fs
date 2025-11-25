@@ -73,11 +73,3 @@ Frontend & UI/UX
   
 ## "Innovation powered by clean code and modern technology"
 </div>
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/2a/b1/08/2ab10887733a1f14ecab1ef69609b853.gif" width="500" />
-</p>
-
-<p align="center"> 
-  <i>Turning ideas into functional, beautiful code</i> 
-</p>
