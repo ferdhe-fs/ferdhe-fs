@@ -6,7 +6,7 @@
 </p>
 
 <div align="center"> 
-  <img src="https://github.com/user-attachments/assets/3d67dd8d-925f-4109-9872-757b9d53402a" alt="Profile Photo" width="190" height="220" style="border-radius: 50%;box-shadow: 0 0 20px rgba(34, 197, 94, 0.3); border: 3px solid #22C55E;" />
+  <img src="https://i.pinimg.com/originals/2a/b1/08/2ab10887733a1f14ecab1ef69609b853.gif" alt="Profile Photo" width="190" height="220" style="border-radius: 50%;box-shadow: 0 0 20px rgba(34, 197, 94, 0.3); border: 3px solid #22C55E;" />
 </div>
 
 ## About Me
@@ -72,12 +72,4 @@ Frontend & UI/UX
 <div align="center">
   
 ## "Innovation powered by clean code and modern technology"
-</div>
-
-<div align="center">
- <img src="https://i.pinimg.com/originals/2a/b1/08/2ab10887733a1f14ecab1ef69609b853.gif" 
-       alt="Profile Photo" 
-       width="220" 
-       high="50"
-       style="border-radius: 50%; box-shadow: 0 0 15px rgba(0,0,0,0.15);" />
 </div>
