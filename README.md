@@ -2,7 +2,7 @@
 
 ## FullStack Developer — Svelte • Laravel • JavaScript
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF355E&center=true&vCenter=true&width=435&lines=FullStack+Developer;Svelte+%7C+Laravel+%7C+TypeScript;Clean+Code+Enthusiast;Problem+Solver" alt="Typing SVG"" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=primary&center=true&vCenter=true&width=435&lines=FullStack+Developer;Svelte+%7C+Laravel+%7C+TypeScript;Clean+Code+Enthusiast;Problem+Solver" alt="Typing SVG"" /> 
 </p>
 
 <div align="center"> 
