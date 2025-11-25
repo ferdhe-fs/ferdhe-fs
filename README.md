@@ -74,5 +74,10 @@ Frontend & UI/UX
 ## "Innovation powered by clean code and modern technology"
 </div>
 
-
-![Snake animation](https://github.com/ferdhe-fs/ferdhe-fs/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+ <img src="https://i.pinimg.com/originals/2a/b1/08/2ab10887733a1f14ecab1ef69609b853.gif" 
+       alt="Profile Photo" 
+       width="220" 
+       high="50"
+       style="border-radius: 50%; box-shadow: 0 0 15px rgba(0,0,0,0.15);" />
+</div>
