@@ -38,11 +38,6 @@ Frontend & UI/UX
        src="https://streak-stats.demolab.com?user=ferdhe-fs&theme=radical&hide_border=true&fire=DD2727&ring=DD2727&currStreakLabel=DD2727" 
   />
 </p>
-<p align="center">
-  <img height="160"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ferdhe-fs&layout=compact&theme=radical&hide_border=true&cache_seconds=7200"
-  />
-</p>
 
 
     Full-Stack Development from database to deployment
