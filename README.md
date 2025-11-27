@@ -14,7 +14,8 @@
 I'm a FullStack Developer passionate about crafting responsive, secure, and high-performance web applications. I specialize in modern technologies like Svelte/SvelteKit, Laravel, and TypeScript to build solutions that solve real business problems.
 
 ## 🛠 Tech Stack
-Frontend & UI/UX
+
+## Frontend & UI/UX
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=svelte,nextjs,react,typescript,javascript,html,css,tailwind" /> 
 </p>
